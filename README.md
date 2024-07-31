@@ -32,3 +32,6 @@ The interactive nature of the chart allows users to see up-to-date stock prices 
 This project has real-world applications in finance, particularly for traders and analysts who need to monitor stock performance in real-time. The ability to visualize data dynamically and analyze trends through technical indicators can assist in making informed investment decisions.
 
 By working on this project, I have gained valuable experience in handling real-time data, performing financial analysis, and creating interactive visualizations. I am excited about the potential applications of this project and look forward to discussing how these skills can contribute to your team.
+
+![stock_analysis](https://github.com/user-attachments/assets/5423f19f-abed-4634-9e9b-9583f6b6e64a)
+
